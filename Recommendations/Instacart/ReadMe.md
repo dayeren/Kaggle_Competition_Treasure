@@ -1,10 +1,7 @@
-# File Descriptions
+# Files Contained
 
-## EDA & Baseline
-
-## From Baseline to Bronze Medal
-
-## From Bronze Medal to Silver Medal
-
-## Golden Medal(Continue)
+1. EDA & Baseline
+2. From Baseline to Bronze Medal
+3. From Bronze Medal to Silver Medal
+4. Golden Medal(Continue)
  
